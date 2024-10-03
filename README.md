@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peter Adel</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
 
-- 🔭 I’m currently Computer Science At **Egyptian E-Learning University**
+- 🔭 I’m currently Computer Science Student At **Egyptian E-Learning University**
 
 - 🌱 I’m currently learning **Backend Developing & DevOps**
 
