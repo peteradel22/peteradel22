@@ -98,3 +98,4 @@
 </div>
 
 </p>
+<img src="https://raw.githubusercontent.com/peteradel22/peteradel22/output/snake.svg" alt="Snake animation" />
