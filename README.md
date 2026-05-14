@@ -100,14 +100,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
+## ⚡ What I Do
+ 
 <div align="center">
-
-  <img src="https://streak-stats.demolab.com/?user=peteradel22&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peteradel22&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Software+Engineer+%F0%9F%92%BB;Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;Backend+Developer+%F0%9F%94%A7;Kubernetes+%26+Docker+Enthusiast+%F0%9F%90%B3;Infrastructure+as+Code+with+Terraform+%F0%9F%8F%97%EF%B8%8F;CI%2FCD+Pipeline+Builder+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%8C%B1)](https://git.io/typing-svg)
+ 
 </div>
 
 ---
