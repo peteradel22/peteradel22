@@ -2,9 +2,9 @@
 <h3 align="center">Software Engineer</h3>
 
 - 🔭 Graduated from **Faculty Of Computers Science And Information Technology**.
-- 🎓 Currently a trainee in the **ITI Cloud Architecture 9-Month Professional Program**.
-- ☁️ Specialized in **Cloud, DevOps, and Backend Engineering**, focusing on scalable infrastructure and automation.
-- 🌱 Currently learning advanced Cloud-Native patterns and Distributed Systems.
+- 🎓 Currently a trainee in the **ITI Cloud Architecture 9-Month Professional Training Program**.
+- ☁️ Specialized in **Cloud, DevOps, and Backend Engineering**, focusing on high-availability systems and automation.
+- 🌱 Currently learning advanced Cloud-Native patterns, Distributed Systems, and Infrastructure as Code.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,8 +16,10 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <!-- Cloud & DevOps (New) -->
+  <!-- Cloud & DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" alt="kubernetes" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform" />
   <img width="12" />
